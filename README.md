@@ -52,7 +52,7 @@
 
 <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="350" align='right'>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulRonen&show_icons=true)
+
 
 <br><br>
 
