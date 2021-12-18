@@ -42,7 +42,7 @@
 
 <br/><br/>
 
-[![Pulkit GitHub Stats](https://github-readme-stats.vercel.app/api?username=PaulRonen&show_icons=true)](https://github.com/PaulRonen)
+[![Pulkit GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=PaulRonen&show_icons=true&include_all_commits=true&theme=radical)
 
 <br/>
 
