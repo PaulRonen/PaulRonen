@@ -47,7 +47,6 @@
 <br/>
 <br/>
 ![MY Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulRonen&theme=blue-green)
-
 <br/>
 <br/>
 
