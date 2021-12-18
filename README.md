@@ -45,9 +45,9 @@
 [![Pulkit GitHub Stats](https://github-readme-stats.vercel.app/api?username=PaulRonen&show_icons=true)](https://github.com/PaulRonen)
 
 <br/>
-<br/>
+
 ![MY Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulRonen&theme=blue-green)
-<br/>
+
 <br/>
 
 <img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
