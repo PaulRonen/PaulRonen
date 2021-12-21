@@ -20,9 +20,9 @@
 
 
 
-- 💻 &nbsp; Python | C++ | C | MySQL
+- 💻 &nbsp; Python | C++ | MySQL
 
-- 🌐 &nbsp; HTML | CSS | JavaScript |
+- 🌐 &nbsp; HTML | CSS 
 
 <!--
 - 🛢 &nbsp; MySQL | MongoDB
