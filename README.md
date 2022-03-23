@@ -69,6 +69,13 @@
 
 
 <p align="center">
+  
+  
+ ### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+
+### 😂Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/> 
 
 
 
@@ -81,11 +88,7 @@
 </p>
 
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=PaulRonen.PaulRonen)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
