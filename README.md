@@ -60,7 +60,11 @@
 
 <hr>
 
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
+### 😂Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 <h3> 🤝🏻 Connect with Me </h3>
 
@@ -70,13 +74,6 @@
 
 <p align="center">
   
-  
- ### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/> 
-
 
 
 <a href="https://www.linkedin.com/in/pulkit-singh-904105221/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-PULKIT%20SINGH-blue?style=flat-square&logo=linkedin"></a>
